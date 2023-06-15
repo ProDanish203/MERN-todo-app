@@ -1,0 +1,8 @@
+packages: express, mongoose, cors, dotenv
+Package.json update----
+"scripts": {
+    "dev": "nodemon Server.js",
+    "start": "node Server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
